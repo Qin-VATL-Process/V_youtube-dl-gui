@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/51910964/202623893-b89042c2-6aec-4440-9189-a12a4ee36790.png)
+
+
 [![Build Status](https://dev.azure.com/oleksis/yt-dlg/_apis/build/status/yt-dlg?repoName=yt-dlg&branchName=master)](https://dev.azure.com/oleksis/yt-dlg/_build/latest?definitionId=1&repoName=yt-dlg&branchName=master)
 [![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/oleksis/yt-dlg/1/master.svg)](https://dev.azure.com/oleksis/yt-dlg/_build/latest?definitionId=1&branchName=master)
 
